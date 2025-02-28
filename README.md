@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+My name is Marco and I'm using this Github profile to upload some personal data science projects, in an effort to impress whoever is reading this 😄
+
+I'm currently doing more projects to add to this page, as well as the remaining short courses on Kaggle to learn more. My Kaggle profile is linked to on this page, together with my Datacamp profile, a platform on which I completed some courses and projects as well.
+
+You'll see that I'm quite proficient with Python, using packages such as numpy, matplotlib, pandas, seaborn, scipy, sklearn, xgboost and tensorflow regularly. I have some experience using SQL too.
+
+
 <!--
 **marcovdploeg/marcovdploeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
