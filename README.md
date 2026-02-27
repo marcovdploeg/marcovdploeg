@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Marco and I'm using this Github profile to upload some personal data science projects, in an effort to impress whoever is reading this 😄
+My name is Marco and I'm using this Github profile to upload some personal projects, related to data science, software development or physics, in an effort to impress whoever is reading this 😄
 
 I'm currently doing more projects to add to this page, as well as the remaining short courses on Kaggle to learn more. My Kaggle profile is linked to on this page, together with my Datacamp profile, a platform on which I completed some courses and projects as well.
 
