@@ -2,7 +2,7 @@
 
 My name is Marco and I'm using this Github profile to upload some personal projects, related to data science, software development or physics, in an effort to impress whoever is reading this 😄
 
-I'm currently doing more projects to add to this page, as well as the remaining (short) courses on e.g. Kaggle and freeCodeCamp to learn more. My Kaggle profile is linked to on this page.
+I'm currently doing more projects to add to this page, as well as (short) courses on e.g. Kaggle and freeCodeCamp to learn more. Those profiles are linked to on this page.
 
 You'll see that I'm quite proficient with Python, using packages such as NumPy, Matplotlib, Pandas, Seaborn, SciPy, Scikit-learn, XGBoost, TensorFlow and PyTorch regularly. I have some experience using C++, SQL and PowerBI too.
 
